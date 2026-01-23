@@ -1,2 +1,7 @@
+streamlit
+folium
+streamlit-folium
 web3
+pandas
 requests
+pydeck
